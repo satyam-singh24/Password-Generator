@@ -1,3 +1,5 @@
+# Password Generator [Live Link](https://password-generator-satyam-singh24.netlify.app/)
+
 🚀 Password Generator using HTML, CSS & JavaScript 🔐
 
 Welcome to the Password Generator repository! This project is a simple yet powerful random password generator built using HTML, CSS, and JavaScript. It allows users to create strong, secure passwords with customizable options, ensuring enhanced security for online accounts.
